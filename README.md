@@ -7,7 +7,7 @@ Este projeto desenvolvido durante o processo seletivo para o Programa Lighthouse
 ### Análise exploratória dos dados
 
 Foram realizados boxplots, tabelas e mapas para analisar a relação entre as variáveis, que podem ser visualizados no
-[notebook principal](https://github.com/Lud-lud/LH_CD_LUDMILA_SILVA_RESENDE/blob/main/desafio_ciencia_de_dados_2025-3.ipynb)
+[notebook principal](https://github.com/Lud-lud/LH_CD_LUDMILA_SILVA_RESENDE/blob/main/desafio_ciencia_de_dados_2025-3.ipynb).
 
 Importante alertar que o mapa perceptual resultante da análise de correspondência múltipla, por ser uma visualização dinâmica 3D, não foi renderizado no arquivo 
 [desafio_ciencia_de_dados_2025-3.ipynb](https://github.com/Lud-lud/LH_CD_LUDMILA_SILVA_RESENDE/blob/main/desafio_ciencia_de_dados_2025-3.ipynb). Sendo assim,
