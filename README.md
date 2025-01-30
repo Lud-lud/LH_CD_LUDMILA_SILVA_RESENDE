@@ -37,6 +37,6 @@ ou no arquivo de
 ---
 ### Arquivos associados
 
-Dados de input: [teste_indicium_precificacao.csv](https://github.com/Lud-lud/LH_CD_LUDMILA_SILVA_RESENDE/blob/main/teste_indicium_precificacao)
+Dados de input: [teste_indicium_precificacao.csv](https://github.com/Lud-lud/LH_CD_LUDMILA_SILVA_RESENDE/blob/main/teste_indicium_precificacao.csv)
 
 Arquivo de requisitos: [requirements.txt](https://github.com/Lud-lud/LH_CD_LUDMILA_SILVA_RESENDE/blob/main/requirements.txt)
